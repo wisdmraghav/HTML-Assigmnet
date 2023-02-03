@@ -7,6 +7,7 @@ Desktop View
 Tablet View
 ![127 0 0 1_5500_ (1)](https://user-images.githubusercontent.com/123485448/216587865-04cd7b6f-b51e-44e7-b211-64652e2eb2dc.png)
 
-Mobile View
+ Mobile View
+ 
 ![127 0 0 1_5500_ (3)](https://user-images.githubusercontent.com/123485448/216587911-26cfc338-bf49-413d-9d2f-2f7d542b8a39.png)
 
