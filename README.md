@@ -1,5 +1,7 @@
 # HTML-Assigmnet
-![127 0 0 1_5500_ (3)](https://user-images.githubusercontent.com/123485448/216579880-64705dd5-3687-4431-bf5e-fd8d491849c3.png)
-![127 0 0 1_5500_ (2)](https://user-images.githubusercontent.com/123485448/216580005-725e79ce-ee7e-40ac-b30e-66fa73661c5f.png)
-![127 0 0 1_5500_ (3)](https://user-images.githubusercontent.com/123485448/216580076-e08eea7b-588c-4207-ad90-e06641cba015.png)
-![127 0 0 1_5500_](https://user-images.githubusercontent.com/123485448/216580117-f6e054b0-2359-4531-a354-be49fe0ea772.png)
+visit website on following link = https://comforting-tanuki-c9eb4d.netlify.app/
+
+![127 0 0 1_5500_](https://user-images.githubusercontent.com/123485448/216587801-d9729cac-e710-4f00-a4c6-08624751e8f3.png)
+![127 0 0 1_5500_ (1)](https://user-images.githubusercontent.com/123485448/216587865-04cd7b6f-b51e-44e7-b211-64652e2eb2dc.png)
+![127 0 0 1_5500_ (3)](https://user-images.githubusercontent.com/123485448/216587911-26cfc338-bf49-413d-9d2f-2f7d542b8a39.png)
+
